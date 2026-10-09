@@ -22,7 +22,7 @@ WORKERS = 5
 DB_URI = "mongodb+srv://chandruu2320_db_user:VgTLoS9Qm09G5Few@filestorerm.dygpdr1.mongodb.net/?appName=Filestorerm"
 DB_NAME = "Filestorerm"
 
-FSUBS = [[-1002698579732, True, 10]] # Force Subscription Channels [channel_id, request_enabled, timer_in_minutes]
+FSUBS = [[-1003543883078, True, 10]] # Force Subscription Channels [channel_id, request_enabled, timer_in_minutes]
 # Database Channel (Primary)
 DB_CHANNEL = -1003578841865
 # Multiple Database Channels (can be set via bot settings)
