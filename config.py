@@ -19,8 +19,8 @@ API_ID = "30451099"
 API_HASH = "93f126c9b4afc8e31c4cdc21b35ddfde"
 WORKERS = 5
 
-DB_URI = "mongodb+srv://chandruu2320_db_user:VgTLoS9Qm09G5Few@filestorerm.dygpdr1.mongodb.net/?appName=Filestorerm"
-DB_NAME = "Filestorerm"
+DB_URI = "mongodb+srv://suryakumarm882_db_user:suryakumarm882_db_user@cluster4.3woln9l.mongodb.net/?appName=Cluster4"
+DB_NAME = "Cluster4"
 
 FSUBS = [[-1003543883078, True, 10]] # Force Subscription Channels [channel_id, request_enabled, timer_in_minutes]
 # Database Channel (Primary)
