@@ -14,9 +14,9 @@ SHORT_TUT = "https://t.me/RudraMovies4"
 
 # Bot Configuration
 SESSION = "yato"
-TOKEN = "8829995673:AAG6cpqdTczs4RvvNq3xsUo6cuk75iKw8SM"
-API_ID = "30510149"
-API_HASH = "40863e0a77fd80789861c05a7e8a34bd"
+TOKEN = "8829995673:AAG9_DZiK3u8gUIo8YmiO05jqxhsnPxmhss"
+API_ID = "30451099"
+API_HASH = "93f126c9b4afc8e31c4cdc21b35ddfde"
 WORKERS = 5
 
 DB_URI = "mongodb+srv://chandruu2320_db_user:VgTLoS9Qm09G5Few@filestorerm.dygpdr1.mongodb.net/?appName=Filestorerm"
@@ -24,7 +24,7 @@ DB_NAME = "Filestorerm"
 
 FSUBS = [[-1002698579732, True, 10]] # Force Subscription Channels [channel_id, request_enabled, timer_in_minutes]
 # Database Channel (Primary)
-DB_CHANNEL =    # just put channel id dont add ""
+DB_CHANNEL = -1003578841865
 # Multiple Database Channels (can be set via bot settings)
 # DB_CHANNELS = {
 #     "-1002595092736": {"name": "Primary DB", "is_primary": True, "is_active": True},
